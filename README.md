@@ -1,17 +1,30 @@
-<h1 align="center">Olá, eu sou Bruno Roberto Cataneo</h1>
+<h1 align="center">Olá, eu sou Bruno Roberto Cataneo 👨‍💻</h1>
 
 <p align="center">
-  Estudante de <strong>Ciência da Computação</strong> na Universidade do Oeste Catarinense.<br>
-  Apaixonado por tecnologia desde meu primeiro curso de informática, busco constantemente aprimorar minhas habilidades em programação.<br>
-  Aberto a novas oportunidades de aprendizado e a participar de projetos que façam a diferença.
+Estudante de Ciência da Computação na UNOESC <br>
+Focado em desenvolvimento de software, automação e soluções práticas com tecnologia.
 </p>
 
-## 🚀 Sobre mim
-- 🎓 Estudante de **Ciência da Computação - Univercidade do Oeste Catarinence - UNOESC**  
-- 💻 Entusiasta da programação e tecnologia  
-- 📍 Santa Catarina - Brasil  
-- 📚 Estudando Java e C#
+---
 
+## 🚀 Sobre mim
+
+- 🎓 Ciência da Computação - UNOESC (Videira/SC)  
+- 💼 Atuação com tecnologia e sistemas no setor de seguros  
+- ⚙️ Experiência prática com desenvolvimento web e automações  
+- 📚 Atualmente focado em **Java, C#, Node.js e SQL**  
+- 🎯 Objetivo: me tornar um desenvolvedor completo e atuar em projetos reais de impacto  
+
+---
+
+## 💡 O que eu já faço
+
+- Desenvolvimento de aplicações web (HTML, CSS, JS)
+- Criação de automações com Node.js (bots, APIs)
+- Modelagem e consultas em banco de dados SQL
+- Projetos próprios publicados no GitHub
+
+---
 
 ## 📊 Estatísticas
 
@@ -20,21 +33,35 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunorobertocataneo&layout=compact&langs_count=16&bg_color=0d1117&title_color=5FBDFF&text_color=ffffff&icon_color=5FBDFF"/>
 </div>
 
+---
 
-## 💻 Tecnologias que uso
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+## 💻 Tecnologias
 
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="50"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="50"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="50"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="50"/> &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="50"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/> &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
+</p>
 
-## 📫 Como me encontrar
+---
+
+## 📌 Projetos em destaque
+
+🔹 [Portfólio pessoal](https://brunorobertocataneo.github.io/meu-novo-portfolio/)  
+🔹 Bot de agendamento via WhatsApp (Node.js)  
+🔹 Projetos acadêmicos em C#  
+
+---
+
+## 📫 Contato
+
 <p align="center">
   <a href="https://www.linkedin.com/in/bruno-roberto-cataneo-0b38132a5" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
