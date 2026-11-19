@@ -1,11 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080B18,45:15163A,100:00E5FF&text=BRUNO%20ROBERTO%20CATANEO&fontColor=FFFFFF&fontSize=34&fontAlignY=38&desc=DEVELOPER%20%7C%20AUTOMATION%20%7C%20INFRASTRUCTURE&descAlignY=59&descSize=16&animation=fadeIn" width="100%" alt="Banner cyberpunk Bruno Roberto Cataneo" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=195&color=0:070B16,50:171335,100:00D9E8&text=BRUNO%20ROBERTO%20CATANEO&fontColor=FFFFFF&fontSize=34&fontAlignY=36&desc=DEVELOPER%20%7C%20AUTOMATION%20%7C%20INFRASTRUCTURE&descAlignY=59&descSize=15&animation=fadeIn" width="100%" alt="Banner cyberpunk com efeito de entrada — Bruno Roberto Cataneo" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Building+solutions+with+code;Automating+real-world+processes;Learning+cybersecurity+every+day" alt="Animação de texto sobre desenvolvimento, automação e cibersegurança" /></a>
+### `>_ SYSTEM ONLINE • READY TO BUILD`
 
-<a href="https://github.com/brunorobertocataneo"><img src="https://komarev.com/ghpvc/?username=brunorobertocataneo&label=PROFILE%20VIEWS&color=00bcd4&style=flat-square" alt="Visualizações do perfil" /></a>
-<a href="https://brunorobertocataneo.github.io/meu-novo-portfolio/"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-00E5FF?style=flat-square&logo=googlechrome&logoColor=101020" alt="Portfólio" /></a>
+**Desenvolvimento de software** · **Automação** · **Infraestrutura & Redes**
+
+<sub>Transformando problemas reais em soluções com tecnologia.</sub>
+
+<p>
+<a href="https://brunorobertocataneo.github.io/meu-novo-portfolio/"><img src="https://img.shields.io/badge/VER_PORTF%C3%93LIO-00D9E8?style=for-the-badge&logo=googlechrome&logoColor=101020" alt="Ver portfólio" /></a>
+<a href="https://www.linkedin.com/in/bruno-roberto-cataneo-0b38132a5"><img src="https://img.shields.io/badge/LINKEDIN-7549C8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:bruno31.cataneo@gmail.com"><img src="https://img.shields.io/badge/CONTATO-171D31?style=for-the-badge&logo=gmail&logoColor=00D9E8" alt="Contato por email" /></a>
+</p>
+<img src="https://komarev.com/ghpvc/?username=brunorobertocataneo&label=PROFILE%20VIEWS&color=00bcd4&style=flat-square" alt="Visualizações do perfil" />
 
 </div>
 
