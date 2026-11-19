@@ -15,7 +15,6 @@
 <a href="https://www.linkedin.com/in/bruno-roberto-cataneo-0b38132a5"><img src="https://img.shields.io/badge/LINKEDIN-7549C8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:bruno31.cataneo@gmail.com"><img src="https://img.shields.io/badge/CONTATO-171D31?style=for-the-badge&logo=gmail&logoColor=00D9E8" alt="Contato por email" /></a>
 </p>
-<img src="https://komarev.com/ghpvc/?username=brunorobertocataneo&label=PROFILE%20VIEWS&color=00bcd4&style=flat-square" alt="Visualizações do perfil" />
 
 </div>
 
