@@ -38,6 +38,10 @@ currently_learning:
 
 Sou estudante de **Ciência da Computação na UNOESC** e atuo com tecnologia, suporte de TI e redes. Desenvolvo aplicações web, sistemas com banco de dados e automações voltadas a problemas práticos. Tenho interesse em aprofundar meus conhecimentos em **backend, infraestrutura e segurança da informação**.
 
+<p align="center">
+  <img src="./assets/infraestrutura.svg" width="100%" alt="Suporte de TI e infraestrutura — Redes, servidores e VPN. Ilustração de um rack com switch e cabos de rede." />
+</p>
+
 ### `root@bruno:~$ ls ./tech-stack`
 
 <div align="center">
