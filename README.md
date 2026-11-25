@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=195&color=0:070B16,50:171335,100:00D9E8&text=BRUNO%20ROBERTO%20CATANEO&fontColor=FFFFFF&fontSize=34&fontAlignY=36&desc=DEVELOPER%20%7C%20AUTOMATION%20%7C%20INFRASTRUCTURE&descAlignY=59&descSize=15&animation=fadeIn" width="100%" alt="Banner cyberpunk com efeito de entrada — Bruno Roberto Cataneo" />
+<img src="./assets/infraestrutura.svg" width="100%" alt="Bruno Roberto Cataneo — Programação - Redes. Computador com código na tela e uma xícara de café." />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=1200&color=FFF200&center=true&vCenter=true&repeat=true&width=600&height=42&lines=%3E_+SYSTEM+ONLINE+%E2%80%A2+READY+TO+BUILD" alt="Animação de digitação: SYSTEM ONLINE • READY TO BUILD" />
@@ -37,10 +37,6 @@ currently_learning:
 ```
 
 Sou estudante de **Ciência da Computação na UNOESC** e atuo com tecnologia, suporte de TI e redes. Desenvolvo aplicações web, sistemas com banco de dados e automações voltadas a problemas práticos. Tenho interesse em aprofundar meus conhecimentos em **backend, infraestrutura e segurança da informação**.
-
-<p align="center">
-  <img src="./assets/infraestrutura.svg" width="100%" alt="Suporte de TI e infraestrutura — Redes, servidores e VPN. Ilustração de um rack com switch e cabos de rede." />
-</p>
 
 ### `root@bruno:~$ ls ./tech-stack`
 
