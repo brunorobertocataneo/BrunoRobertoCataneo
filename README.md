@@ -68,7 +68,8 @@ Sou estudante de **Ciência da Computação na UNOESC** e atuo com tecnologia, s
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="46" height="46" alt="Docker" title="Docker" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="46" height="46" alt="Linux" title="Linux" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="46" height="46" alt="Git" title="Git" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="46" height="46" alt="GitHub" title="GitHub" />
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="46" height="46" alt="GitHub" title="GitHub" />&nbsp;
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="46" height="46" alt="n8n" title="n8n" />
 
 </div>
 
