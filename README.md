@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/infraestrutura.svg" width="100%" alt="Bruno Roberto Cataneo — Programação - Redes. Computador com código na tela e uma xícara de café." />
+<img src="./assets/banner-programacao-redes.svg" width="100%" alt="Bruno Roberto Cataneo — Programação - Redes. Computador com código na tela e uma xícara de café." />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=1200&color=FFF200&center=true&vCenter=true&repeat=true&width=600&height=42&lines=%3E_+SYSTEM+ONLINE+%E2%80%A2+READY+TO+BUILD" alt="Animação de digitação: SYSTEM ONLINE • READY TO BUILD" />
